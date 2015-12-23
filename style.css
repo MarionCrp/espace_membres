@@ -1,0 +1,19 @@
+h1
+{
+	text-align: center;
+}
+
+.profil
+{
+	text-align: center;
+	border: solid 2px black;
+	width: 400px;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+a 
+{
+	display: block;
+	text-align: center;
+}
